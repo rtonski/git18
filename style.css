@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(151, 115, 115);
+}
+
+form {
+
+    color: lawngreen;
+    padding: 2em;
+    
+}
+
+button {
+    background-color: #ffffff;
+    border: 3px solid #047f21;
+    padding: 2em;
+    border-radius: 50%;
+    width: 150px;
+    text-size-adjust: 3em;
+}
+
+#dane {
+    background-color: #047f21;
+    border: 3px solid #fff;
+    padding: 2em;
+    border-radius: 50%;
+    width: 80px;
+    font-size: 15px;
+}
+
